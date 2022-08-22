@@ -18,7 +18,7 @@ pkgs <-  c( "boot", "car", "Epi", "fivethirtyeight", "GGally", "ggrepel", "ggrid
 ```
 
 ```
-# Other packages I am considering including in this list 
+### Other packages I am considering including in this list 
             ("arm", "devtools", "equatiomatic", "gapminder", "here", "kableExtra", "magrittr", "markdown", "modelsummary", 
             "nhanesA", "palmerpenguins", "rmarkdown", "rmdformats", "rstanarm", "sessioninfo", "tableone", "visdat")
 ```
