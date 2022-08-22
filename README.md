@@ -10,7 +10,7 @@ An R "package" is a collection of functions, data, and documentation that extend
 
 ```
 pkgs <-  c( "boot", "car", "Epi", "fivethirtyeight", "GGally", "ggrepel", "ggridges", "gt", 
-            "Hmisc", "janitor", "kableExtra", "knitr", "mice", "mosaic", "naniar", "NHANES", 
+            "Hmisc", "janitor", "knitr", "mice", "mosaic", "naniar", "NHANES", 
             "palmerpenguins", "patchwork", "psych", "pwr", "rms", "simputation", "tidymodels",
             "tidyverse", "vcd")
 
@@ -18,8 +18,9 @@ pkgs <-  c( "boot", "car", "Epi", "fivethirtyeight", "GGally", "ggrepel", "ggrid
 ```
 
 ```
-#pkgs_more <-  c( "arm", "devtools", "equatiomatic", "gapminder", "here", "kableExtra", "magrittr", "markdown", "modelsummary", 
-#            "nhanesA", "palmerpenguins", "rmarkdown", "rmdformats", "rstanarm", "sessioninfo", "tableone", "visdat")
+# Other packages I am considering including in this list 
+            ("arm", "devtools", "equatiomatic", "gapminder", "here", "kableExtra", "magrittr", "markdown", "modelsummary", 
+            "nhanesA", "palmerpenguins", "rmarkdown", "rmdformats", "rstanarm", "sessioninfo", "tableone", "visdat")
 ```
 
 2.  Execute those commands by hitting Enter.
