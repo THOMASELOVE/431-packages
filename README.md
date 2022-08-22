@@ -1,5 +1,7 @@
 # 431-packages
 
+These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2022/software.html) of [our main course website](https://thomaselove.github.io/431-2022).
+
 ## R Packages to Install for 431
 
 An R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. These package instructions should be used after you've installed R and RStudio. We will add packages to this list as the semester continues.
