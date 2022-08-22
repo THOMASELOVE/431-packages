@@ -1,6 +1,6 @@
 # 431-packages
 
-## R Packages to Install
+## R Packages to Install for 431
 
 An R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. These package instructions should be used after you've installed R and RStudio. We will add packages to this list as the semester continues.
 
