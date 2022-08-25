@@ -17,7 +17,10 @@ pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally"
     install.packages(pkgs)
 ```
 
+**Note**: This list isn't finalized yet. It will be by our first class meeting.
+
 ```
+
 ### Other packages I am considering including in this list 
             ("equatiomatic", "gapminder", "here", "kableExtra", 
             "magrittr", "markdown", "modelsummary", "nhanesA", 
