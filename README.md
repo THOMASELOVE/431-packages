@@ -48,3 +48,5 @@ If you want to install a single package, you can do so by finding the word **Pac
     - A popup box may appear, asking "Do you want to install from sources the packages which need compilation?" to which I usually answer **No**. A **Yes** response leads to a slower installation, but can solve problems if you still have them after updating.
     - This may take a few minutes. As long as you're seeing activity in the Console window, things are progressing.
     - Eventually, you'll get a message that "The downloaded source packages are in ..." with a directory name. That's the sign that the updating is done.
+
+[Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
