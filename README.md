@@ -20,13 +20,7 @@ pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally"
 
 **Note**: This list isn't finalized yet. It will be by our first class meeting.
 
-```
-
-### Other packages I am considering include...
-            ("equatiomatic", "gapminder", 
-            "magrittr", "markdown", "modelsummary", "nhanesA", 
-            "rmarkdown", "rmdformats", "rstanarm", "tableone")
-```
+- Other packages I am considering include... "equatiomatic", "gapminder", "magrittr", "markdown", "modelsummary", "nhanesA", "rmarkdown", "rmdformats", "rstanarm", and "tableone", and many more.
 
 2.  Execute those commands by hitting Enter.
 
