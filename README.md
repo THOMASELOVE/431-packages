@@ -11,16 +11,15 @@ An R "package" is a collection of functions, data, and documentation that extend
 ```
 pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally", 
             "ggrepel", "ggridges", "gt", "gtsummary", "here", "Hmisc", "janitor",
-            "kableExtra", "knitr", "lvplot", "mice", "mosaic", "naniar", "NHANES",
-            "palmerpenguins", "patchwork", "psych", "pwr", "rms", "sessioninfo", 
-            "simputation", "tidymodels", "tidyverse", "vcd", "visdat")
+            "kableExtra", "knitr", "lvplot", "markdown", "mice", "mosaic", "naniar", 
+            "NHANES", "nhanesA", "palmerpenguins", "patchwork", "psych", "pwr", 
+            "rmarkdown", "rmdformats", "rms", "sessioninfo", "simputation", 
+            "summarytools", "tidymodels", "tidyverse", "vcd", "visdat")
 
     install.packages(pkgs)
 ```
 
 **Note**: This list isn't finalized yet. It will be by our first class meeting.
-
-- Other packages I am considering include... "equatiomatic", "gapminder", "magrittr", "markdown", "modelsummary", "nhanesA", "rmarkdown", "rmdformats", "rstanarm", and "tableone", and many more.
 
 2.  Execute those commands by hitting Enter.
 
