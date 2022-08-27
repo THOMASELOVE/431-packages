@@ -23,7 +23,7 @@ pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally"
 
 2.  Execute those commands by hitting Enter.
 
-3.  Now, go to the **Packages** tab on the right side of your RStudio screen, and click on **Update**. 
+3.  Now, go to the **Packages** tab on the right side of your RStudio screen, and click on **Update**. (This is also how you'll Update packages later this term.)
 
 4.  This will bring up a dialog box. I usually click **Select All**, then click **Install Updates**. 
 - A popup box may appear, asking "Do you want to install from sources the packages which need compilation?" to which I usually answer **No**. A **Yes** response leads to a slower installation, but can solve problems if you still have them after updating.
