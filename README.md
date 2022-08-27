@@ -10,11 +10,11 @@ An R "package" is a collection of functions, data, and documentation that extend
 
 ```
 pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally", 
-            "ggrepel", "ggridges", "gt", "gtsummary", "here", "Hmisc", "janitor",
-            "kableExtra", "knitr", "lvplot", "markdown", "mice", "mosaic", "naniar", 
-            "NHANES", "nhanesA", "palmerpenguins", "patchwork", "psych", "pwr", 
-            "rmarkdown", "rmdformats", "rms", "sessioninfo", "simputation", 
-            "summarytools", "tidymodels", "tidyverse", "vcd", "visdat")
+            "ggrepel", "ggridges", "ggstance", "gt", "gtsummary", "here", "Hmisc", 
+            "janitor", "kableExtra", "knitr", "lvplot", "markdown", "mice", 
+            "mosaic", "naniar", "NHANES", "nhanesA", "palmerpenguins", "patchwork", 
+            "psych", "pwr", "rmarkdown", "rmdformats", "rms", "sessioninfo", 
+            "simputation", "summarytools", "tidymodels", "tidyverse", "vcd", "visdat")
 
     install.packages(pkgs)
 ```
