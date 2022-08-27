@@ -31,7 +31,7 @@ pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally"
 - Eventually, you'll get a message that "The downloaded source packages are in ..." with a directory name. That's the sign that the updating is done.
 - Updating packages is something you'll do occasionally throughout the semester, mostly when a problem happens.
 
-5.  Finally, choose **File ... Quit Session** from the top menu, and accept RStudio's request to save your workspace. This will eliminate the need to re-do these steps every time you work in R.
+5.  Finally, choose **File ... Quit Session** from the top menu, and accept or deny (I usually deny) RStudio's request to save your workspace.
 
 ### Note: A Windows Issue
 
