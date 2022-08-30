@@ -19,8 +19,6 @@ pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "equatiomatic", "fivethirty
     install.packages(pkgs)
 ```
 
-**Note**: This list isn't finalized yet. It will be by our first class meeting.
-
 2.  Execute those commands by hitting Enter.
 
 3.  Now, go to the **Packages** tab on the right side of your RStudio screen, and click on **Update**. (This is also how you'll Update packages later this term.)
