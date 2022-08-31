@@ -37,8 +37,8 @@ If you are using Windows, and get messages during installation that the latest v
 
 ### Contents of the Tidyverse and Tidymodels Meta-Packages
 
-- Installing the tidyverse includes installation of all packages listed at https://www.tidyverse.org/.
-- Installing the `tidymodels` meta-package installs all packages listed at https://www.tidymodels.org/packages/.
+- Installing the `tidyverse` meta-package installs the packages listed at https://www.tidyverse.org/.
+- Installing the `tidymodels` meta-package installs the packages listed at https://www.tidymodels.org/packages/.
 
 ## Installing a Single Package
 
