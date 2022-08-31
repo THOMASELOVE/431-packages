@@ -35,6 +35,11 @@ pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "equatiomatic", "fivethirty
 
 If you are using Windows, and get messages during installation that the latest version of RTools needs to be installed, you can usually just ignore them. If you don't want to ignore them, [go here to download and install RTools](https://cran.r-project.org/bin/windows/Rtools/) for Windows.
 
+### Contents of the Tidyverse and Tidymodels Meta-Packages
+
+- Installing the tidyverse includes installation of all packages listed at https://www.tidyverse.org/.
+- Installing the `tidymodels` meta-package installs all packages listed at https://www.tidymodels.org/packages/.
+
 ## Installing a Single Package
 
 If you want to install a single package, you can do so by finding the word **Packages** on the right side of your RStudio screen. 
