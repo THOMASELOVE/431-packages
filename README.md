@@ -1,6 +1,6 @@
 # 431-packages
 
-These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2022/software.html) of [our main course website](https://thomaselove.github.io/431-2022).
+These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2023/software.html) of [our main course website](https://thomaselove.github.io/431-2023).
 
 ## R Packages to Install for 431
 
@@ -9,8 +9,8 @@ An R "package" is a collection of functions, data, and documentation that extend
 1. Open RStudio. Copy and paste the following lines of code into the **Console** window of RStudio to install a few key packages.
 
 ```
-pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "equatiomatic", "fivethirtyeight",
-            "GGally", "ggdist", "ggrepel", "ggridges", "ggstance", "gt", "gtExtras", "gtsummary", 
+pkgs <-  c( "arm", "boot", "car", "devtools", "Epi", "fivethirtyeight", "GGally",
+            "ggdist", "ggrepel", "ggridges", "ggstance", "gt", "gtExtras", "gtsummary", 
             "here", "Hmisc", "janitor", "kableExtra", "knitr", "lvplot", "markdown", 
             "mice", "mitml", "mosaic", "naniar", "NHANES", "nhanesA", "palmerpenguins", "patchwork", 
             "psych", "pwr", "rmarkdown", "rmdformats", "rms", "sessioninfo", 
@@ -50,4 +50,4 @@ If you want to install a single package, you can do so by finding the word **Pac
     - This may take a few minutes. As long as you're seeing activity in the Console window, things are progressing.
     - Eventually, you'll get a message that "The downloaded source packages are in ..." with a directory name. That's the sign that the updating is done.
 
-[Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
+[Click here](https://thomaselove.github.io/431-2023/) to return to the main website for the course.
