@@ -1,5 +1,7 @@
 # 431-packages
 
+## PLEASE NOTE: This site is not yet updated for Fall 2023. What follows is the 2022 information.
+
 These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2023/software.html) of [our main course website](https://thomaselove.github.io/431-2023).
 
 ## R Packages to Install for 431
