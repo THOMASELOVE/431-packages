@@ -9,11 +9,12 @@ An R "package" is a collection of functions, data, and documentation that extend
 1. Open RStudio. Copy and paste the following lines of code into the **Console** window of RStudio to install a few key packages.
 
 ```
-pkgs <-  c( "arm", "boot", "car", "corrplot", "corrr", "devtools", "Epi", "epibasix", "exact2x2", "fivethirtyeight", "GGally",
-            "ggdist", "ggmice", "ggrepel", "ggridges", "ggstance", "gt", "gtExtras", "gtsummary", "here", "Hmisc",
-            "janitor", "kableExtra", "knitr", "lvplot", "markdown", "mice", "mitml", "modelsummary", "mosaic",
-            "naniar", "NHANES", "nhanesA", "palmerpenguins", "patchwork", "psych", "pwr", "rmarkdown", "rmdformats",
-            "rms", "sessioninfo", "simputation", "summarytools", "tidymodels", "tidyverse", "vcd", "visdat", "xfun")
+pkgs <-  c( "arm", "boot", "car", "caret", "corrplot", "corrr", "devtools", "Epi", "epibasix", "exact2x2",
+            "fivethirtyeight", "GGally", "ggdist", "ggmice", "ggrepel", "ggridges", "ggstance", "gt", "gtExtras",
+            "gtsummary", "here", "Hmisc", "janitor", "kableExtra", "knitr", "lvplot", "markdown", "mice", "mitml",
+            "modelsummary", "mosaic", "naniar", "NHANES", "nhanesA", "palmerpenguins", "patchwork", "psych", "pwr",
+            "rmarkdown", "rmdformats", "rms", "sessioninfo", "simputation", "summarytools", "tidymodels", "tidyverse",
+            "vcd", "visdat", "xfun")
 
     install.packages(pkgs)
 ```
