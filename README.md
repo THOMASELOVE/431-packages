@@ -1,6 +1,8 @@
 # 431-packages
 
-These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2023/software.html) of [our main course website](https://thomaselove.github.io/431-2023).
+## THIS NEEDS TO BE REVISED BEFORE AUGUST 13
+
+These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2024/software.html) of [our main course website](https://thomaselove.github.io/431-2024).
 
 ## R Packages to Install for 431
 
