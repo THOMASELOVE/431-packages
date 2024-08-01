@@ -14,7 +14,7 @@ pkgs <-  c( "broom", "car", "emmeans", "Epi", "fivethirtyeight", "GGally", "ggdi
             "readxl", "rstanarm", "styler", "tidytuesdayR", "xfun",
             "easystats", "tidyverse")
 
-    install.packages(pkgs)
+install.packages(pkgs)
 ```
 
 2.  Execute those commands by hitting Enter.
