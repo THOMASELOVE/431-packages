@@ -48,4 +48,4 @@ If you want to install a single package, you can do so by finding the word **Pac
     - This may take a few minutes. As long as you're seeing activity in the Console window, things are progressing.
     - Eventually, you'll get a message that "The downloaded source packages are in ..." with a directory name. That's the sign that the updating is done.
 
-[Click here](https://thomaselove.github.io/431-2023/) to return to the main website for the course.
+[Click here](https://thomaselove.github.io/431-2024/) to return to the main website for the course.
