@@ -33,10 +33,10 @@ install.packages(pkgs)
 
 If you are using Windows, and get messages during installation that the latest version of RTools needs to be installed, you can usually just ignore them. If you don't want to ignore them, [go here to download and install RTools](https://cran.r-project.org/bin/windows/Rtools/) for Windows.
 
-### Contents of the Tidyverse and Tidymodels Meta-Packages
+### Contents of the Tidyverse and Easystats Meta-Packages
 
 - Installing the `tidyverse` meta-package installs the packages listed at https://www.tidyverse.org/.
-- Installing the `tidymodels` meta-package installs the packages listed at https://www.tidymodels.org/packages/.
+- Installing the `easystats` meta-package installs the packages listed at https://easystats.github.io/easystats/.
 
 ## Installing a Single Package
 
