@@ -9,9 +9,10 @@ An R "package" is a collection of functions, data, and documentation that extend
 1. Open RStudio. Copy and paste the following lines of code into the **Console** window of RStudio to install a few key packages.
 
 ```
-pkgs <-  c( "broom", "car", "emmeans", "Epi", "fivethirtyeight", "GGally", "ggdist", "ggpubr", "glue", "gt", "haven",
-            "here", "infer", "janitor", "knitr", "medicaldata", "mice", "MKinfer", "mosaic", "naniar", "nhanesA", "olsrr",
-            "palmerpenguins", "patchwork", "readxl", "rstanarm", "styler", "tidytuesdayR", "xfun", "easystats", "tidyverse")
+pkgs <-  c( "broom", "car", "emmeans", "Epi", "fivethirtyeight", "GGally", "ggdist", "ggpubr", "glue",
+            "gt", "haven", "here", "infer", "janitor", "knitr", "medicaldata", "mice", "MKinfer",
+            "mosaic", "naniar", "nhanesA", "olsrr", "palmerpenguins", "patchwork", "readxl", "rstanarm",
+            "styler", "tidytuesdayR", "xfun", "easystats", "tidyverse")
 
 install.packages(pkgs)
 ```
