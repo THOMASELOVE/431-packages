@@ -1,6 +1,6 @@
 # 431-packages
 
-These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2024/software.html) of [our main course website](https://thomaselove.github.io/431-2024).
+These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2025/software.html) of [our main course website](https://thomaselove.github.io/431-2025).
 
 ## R Packages to Install for 431
 
@@ -48,4 +48,4 @@ If you want to install a single package, you can do so by finding the word **Pac
     - This may take a few minutes. As long as you're seeing activity in the Console window, things are progressing.
     - Eventually, you'll get a message that "The downloaded source packages are in ..." with a directory name. That's the sign that the updating is done.
 
-[Click here](https://thomaselove.github.io/431-2024/) to return to the main website for the course.
+[Click here](https://thomaselove.github.io/431-2025/) to return to the main website for the course.
