@@ -15,7 +15,7 @@ pkgs <-  c( "broom", "car", "emmeans", "Epi", "fivethirtyeight",
             "medicaldata", "mice", "MKinfer", "mosaic", "naniar",
             "nhanesA", "olsrr", "palmerpenguins", "patchwork",
             "readxl", "rstanarm", "styler", "tidytuesdayR", "xfun",
-             "easystats", "tidyverse" )
+            "easystats", "tidyverse" )
 
 install.packages(pkgs)
 ```
