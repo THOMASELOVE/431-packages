@@ -1,5 +1,11 @@
 # 431-packages
 
+## This is an evolving document.
+
+**Everything** on this page is **preliminary**, and thus **subject to serious change** before class begins on 2026-08-25. In addition, changes and updates will continue through the semester.
+
+-------
+
 These instructions are meant to be used after you've completed the installation of R and RStudio, as described in [the Software section](https://thomaselove.github.io/431-2025/software.html) of [our main course website](https://thomaselove.github.io/431-2025).
 
 ## R Packages to Install for 431
