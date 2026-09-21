@@ -2,7 +2,7 @@
 
 ## This is an evolving document.
 
-**Everything** on this page is **preliminary**, and thus **subject to change** through the semester.
+**Everything** on this page is **subject to change** through the semester.
 
 -------
 
