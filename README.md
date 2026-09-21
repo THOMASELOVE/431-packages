@@ -2,7 +2,7 @@
 
 ## This is an evolving document.
 
-**Everything** on this page is **preliminary**, and thus **subject to serious change** before class begins on 2026-08-25. In addition, changes and updates will continue through the semester.
+**Everything** on this page is **preliminary**, and thus **subject to change** through the semester.
 
 -------
 
