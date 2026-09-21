@@ -16,7 +16,7 @@ An R "package" is a collection of functions, data, and documentation that extend
 
 ```
 pkgs <-  c( "broom", "car", "collapse", "DescTools", "emmeans", "Epi",
-            "fivethirtyeight", "GGally", "ggdist", "ggmice", "ggpubr",
+            "fivethirtyeight", "GGally", "ggdist", "ggExtra", "ggmice", "ggpubr",
             "ggstatsplot", "glue", "gt", "gtExtras", "haven", "here", "infer",
             "janitor", "kableExtra", "knitr", "marginaleffects", "medicaldata",
             "mice", "MKinfer", "mosaic", "naniar", "nhanesA", "olsrr",
